@@ -16,14 +16,14 @@ main:
   - name: Projets
     url: '#projects'
     weight: 40
-  - name: Présentations
-    url: 'event/'
+  - name: Conférences
+    url: 'conf/'
     weight: 50
   - name: Enseignement
     url: 'cours/'
     weight: 60
   - name: Blog
-    url: 'posts/'
+    url: '#posts'
     weight: 70
 # - name: Contact
 #   url: '#contact'
