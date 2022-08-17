@@ -17,10 +17,10 @@ main:
     url: '#projects'
     weight: 40
   - name: Blog
-    url: '#posts'
+    url: 'posts/'
     weight: 50
   - name: Présentations
-    url: '#talks'
+    url: 'talks/'
   - name: Enseignement
     url: 'cours/'
     weight: 40
