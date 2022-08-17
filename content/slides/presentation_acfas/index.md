@@ -15,7 +15,7 @@ theme: solarized
 
 
 
-{{% /speaker_note %}}
+{{% speaker_note %}}
 
 Zones à défendre, mobilisations localisées en France
 
@@ -26,7 +26,6 @@ Spécificités explorées dans le cadre de ma thèse, puis avec Marieke Stein su
 Donner des exemples : gaz de schiste, conflit de l’eau, etc.
 
 Proposition épistémologique pour intégrer la dimension sensible dans l’analyse des controverses, de manière à ce qu’elles ne se réduisent pas à de l’analyse de discours et de la cartographie de jeux d’acteurs.
-
 
 {{% /speaker_note %}}
 
@@ -40,9 +39,7 @@ Proposition épistémologique pour intégrer la dimension sensible dans l’anal
     * Expertise et contre-expertise des projets
     * Récit des expériences vécues
 
-
-
-{{% /speaker_note %}}
+{{% speaker_note %}}
 
 L’hypothèse défendue est que les débats sur le bien fondé des projets d’aménagement à fort impact environnemental se distribuent entre deux régimes de rationnalité : l’un fondé sur l’expertise, l’autre qui valorise l’expérience sensible.
 
@@ -60,7 +57,7 @@ L’objectif n’est pas de déterminer si l’un serait plus rationnel, mais d�
 > les deux adversaires doivent se voir reconnaître un droit égal à faire valoir leurs arguments auprès du public et à lui montrer des preuves. C’est en quoi les controverses sont des combats souvent acharnés, mais néanmoins toujours empreints d’un minimum de civilité en public, leur tenue exigeant des participants qu’ils sachent devant les tiers maîtriser leur agressivité et admettre la dignité de principe de l’adversaire. [@lemieux2007, p. 195]
 
 
-{{% /speaker_note %}}
+{{% speaker_note %}}
 
 Risque de réduction de la conflictualité des controverses à l’échange d’arguments reposant sur des prises de position divergentes
 
@@ -78,7 +75,7 @@ Risque de réduction de la conflictualité des controverses à l’échange d’
 * Projets environnementaux engagent « des présences, passions, tensions » qui affectent les individus [@allard-huver2021]
 
 
-{{% /speaker_note %}}
+{{% speaker_note %}}
 
 Risque de confusion entre le lieu et le thème de la discussion : « controverses scientifiques »
 
@@ -88,7 +85,6 @@ Régimes de rationalité ont jusque là beaucoup été analysés du point de vue
 
 Dépasser la simple mise en discussion des projets : les acteurs qui participent aux controverses ne le font pas nécessairement pour influer sur le cours d’un projet, mais pour faire valoir un engagement personnel, politique, voire intime en lien avec leur territoire
 
-
 {{% /speaker_note %}}
 
 ---
@@ -97,12 +93,10 @@ Dépasser la simple mise en discussion des projets : les acteurs qui participent
 
 * Notion empruntée à la sociologie pragmatique : ce qui relie des êtres aux situations [@chateauraynaud2017, p. 375]
 
-. . .
-
 > le trouble naît souvent d’épreuves affectives, sensibles ou évaluatives qui perturbent l’assise d’évidence des choses de la vie quotidienne et qui conduisent à mener des enquêtes pour élucider en quoi consiste ce trouble et pour en avoir une expérience  [@cefai2016, p. 29]
 
 
-{{% /speaker_note %}}
+{{% speaker_note %}}
 
 Sociologie pragmatique : ce qui relie des êtres aux situations
 
@@ -122,7 +116,7 @@ Dépasser le risque d’opposer des expressions qui relèveraient du sensible et
 ![](img/andra2.jpg)
 
 
-{{% /speaker_note %}}
+{{% speaker_note %}}
 
 Centre de stockage industriel géologique profond
 
@@ -147,7 +141,7 @@ Horizon 2021 : autorisation de construction du centre de stockage
 * Approche qualitative : entretiens semi-directifs et analyse de contenus
 
 
-{{% /speaker_note %}}
+{{% speaker_note %}}
 
 Mon approche fait le lien entre les mobilisations et la culture numérique. Comment la compréhension des espaces de diffusion numériques permet-elle aux acteurs de s’émanciper des arènes institutionnelles de la controverse pour y faire valoir leur point de vue ?
 
@@ -159,7 +153,6 @@ Même si la question de l’influence des enjeux politiques des plateformes sur 
 
 Lien entre les espaces numériques où s’exprime la critique et la (quête de) légitimité qui est recherchée (pas uniquement le cas pour les enquêteurs, mais aussi pour les zadistes qui visent à rendre crédibles leurs positions et leur discours)
 
-
 {{% /speaker_note %}}
 
 ---
@@ -167,7 +160,7 @@ Lien entre les espaces numériques où s’exprime la critique et la (quête de)
 ## Corpus
 
 
-{{% /speaker_note %}} nonincremental
+{{% speaker_note %}}
 
 * [Bure Zone Libre : la Maison de la Résistance à la poubelle nucléaire de Bure](http://burezoneblog.over-blog.com/)
 * [Collectif contre l’enfouissement des déchets radioactifs](http://www.Cedra 52.fr/)
@@ -180,8 +173,9 @@ Lien entre les espaces numériques où s’exprime la critique et la (quête de)
 * [BureBureBure.info](https://bureburebure.info/)
 * [Andra](http://www.andra.fr/)
 
-
 {{% /speaker_note %}}
+
+---
 
 # Quête de légitimité par l’enquête citoyenne
 
@@ -210,7 +204,7 @@ Lien entre les espaces numériques où s’exprime la critique et la (quête de)
 > Ensemble des connaissances, des expériences et des techniques, c’est-à- dire non seulement les ressources cognitives (savoirs au sens strict) mais aussi les habiletés pratiques (savoir-faire), que peut mobiliser un acteur qui ne dispose ni d’un statut d’élu, ni d’un statut de professionnel lorsqu’il intervient dans les dispositifs participatifs » [@nez2011]
 
 
-{{% /speaker_note %}}
+{{% speaker_note %}}
 
 Reconnaissance de la légitimité des citoyens à intervenir dans la controverse
 
@@ -221,6 +215,8 @@ En se constituant en associations avec leurs propres espaces de diffusion, les c
 
 {{% /speaker_note %}}
 
+---
+
 ## Publicisation d’enquêtes citoyennes
 
 * Adoption des normes de l’expertise pour légitimer la critique
@@ -228,12 +224,10 @@ En se constituant en associations avec leurs propres espaces de diffusion, les c
 * Communiquer la peur, l’indignation
     * Utilisation de couleurs vives, ponctuation répétée, lettres capitales, etc.
 
-
-{{% /speaker_note %}}
+{{% speaker_note %}}
 
 Hypertexte : mener l’enquête et la publiciser par le nombre
 Doute au service de la colère : contre expertiser pour communiquer des émotions. forme de l’expression qui traduit l’émotion (couleurs, capitales ...)
-
 
 {{% /speaker_note %}}
 
@@ -256,7 +250,7 @@ Doute au service de la colère : contre expertiser pour communiquer des émotion
 * Mobilisation de terrain engagée comme « forme de vie » [@laugier2015 ; @mace2016]
 
 
-{{% /speaker_note %}}
+{{% speaker_note %}}
 
 la philosophe Sandra Laugier interroge la notion de forme de vie en la reliant aux problématiques du _care_ et de la vulnérabilité des populations. Évoquant les catastrophes naturelles, industrielles et technologiques, l’auteure interroge les « possibles qui restent ouverts aux êtres humains dans des situations de vulnérabilité extrême »
 
@@ -272,13 +266,9 @@ Forme de vie : intersectionnalité (en cours dans mes recherches)
 * Création d’un automédia [@thiong-kay2020] pour s’émanciper des cadrages médiatiques
 * Communication décentrée des normes de l’argumentation, de l’expertise … et du nucléaire
 
-. . .
-
 ![](img/bogues.png)
 
-
-
-{{% /speaker_note %}}
+{{% speaker_note %}}
 
 Productions amateures et autoproduites
 
@@ -295,7 +285,7 @@ Productions amateures et autoproduites
 * Circulation d’affects personnels et collectifs plutôt que d’arguments
 
 
-{{% /speaker_note %}}
+{{% speaker_note %}}
 
 Effondrement du mur, mobilisation du 18 férier 2017
 
@@ -316,10 +306,9 @@ Productions qui jouent avec les frontières, les cadres : entre réel et fiction
 ![](img/youtube.png)
 
 
-{{% /speaker_note %}}
+{{% speaker_note %}}
 
 La communication de l’Andra est moins directe, plus soucieuse des interrogations, incertitudes que peut avoir le public. Il s’agit toujours de démontrer la fiabilité de Cigéo, mais la communication s’appuie moins sur le régime de rationnalité experte
-
 
 {{% /speaker_note %}}
 
@@ -329,31 +318,13 @@ La communication de l’Andra est moins directe, plus soucieuse des interrogatio
 
 ---
 
-## {background-image="img/hulot_radicalise.jpg"}
-
-
-{{% /speaker_note %}}
-
-Question pour la recherche :
-
-Comment rendre visibles les points de vue des groupes minoritaires / minorisés ?
-
-Risque : prédominance d’un groupe sur l’autre, discours tenu par Sébastien Lecornu
-
-
-
-{{% /speaker_note %}}
-
----
-
 ## (Re)penser les modes de restitution des enquêtes
 
 * Décrire les modes d’intelligibilité des controverses par les acteurs
 * Interroger le sens accordé à la cartographie des arguments et des jeux d’acteurs
 * Se saisir de nouvelles formes d’écriture (scientifique, médiatique)
 
-
-{{% /speaker_note %}}
+{{% speaker_note %}}
 
 Cartographie, mais pour représenter quoi ? Risque de complotisme
 
@@ -366,5 +337,4 @@ Enquête : maîtriser le fonds du dossier / Récit : maîtriser la circulation d
 
 ## Références
 
-
-<!-- Lien politique entre pratiques numériques et lutte sociale : fabrication de fanzine sur la zad, affirmation de sa légitimité experte via les blogs (sémiotique et politique des formes de communication à développer dans l’article final) -->
+---
