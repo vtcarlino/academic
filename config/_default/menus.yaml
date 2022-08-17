@@ -22,7 +22,7 @@ main:
   - name: Présentations
     url: '#talks'
   - name: Enseignement
-    url: 'content/cours.md'
+    url: 'cours/'
     weight: 40
 # - name: Contact
 #   url: '#contact'
