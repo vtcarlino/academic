@@ -20,7 +20,7 @@ main:
     url: 'posts/'
     weight: 50
   - name: Présentations
-    url: 'talks/'
+    url: '#talks'
   - name: Enseignement
     url: 'cours/'
     weight: 40
