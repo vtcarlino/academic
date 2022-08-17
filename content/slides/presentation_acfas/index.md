@@ -1,14 +1,11 @@
 ---
-title: "<small>Entre expertise et expérience sensible.<br /> Les régimes de rationalité dans les controverses environnementales</small>"
+title: "Entre expertise et expérience sensible. Les régimes de rationalité dans les controverses environnementales"
 author: |
     Vincent Carlino, Université catholique de l'Ouest - Nantes
 
     Centre de recherche Humanités et Sociétés
 
     Centre de recherche sur les médiations
-
-bibliography: /Users/vincent/kDrive/Recherche/Bibliographie/biblio.json
-maxScale: 0.9
 theme: solarized
 ---
 
