@@ -68,5 +68,3 @@ slides: "presentation_acfas"
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-Membre du comité scientifique
