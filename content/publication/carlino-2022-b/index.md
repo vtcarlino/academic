@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Entre Expertise et Expérience Sensible. Les Rǵimes de Rationalit'D́ans Les
-  Controverses Environnementales
+title: Entre expertise et expérience sensible. Les régimes de rationalité dans les
+  eontroverses environnementales
 subtitle: ''
 summary: ''
 authors:
@@ -32,5 +32,5 @@ publishDate: '2022-08-17T12:20:19.041174Z'
 publication_types:
 - '1'
 abstract: ''
-publication: "*La Construction de La Légitimit ́Dans Un Contexte de M'íance G'e'́erís'ee*"
+publication: "*La construction de La légitimité dans un contexte de méfiance généralisée*"
 ---

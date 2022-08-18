@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: '2022-08-17T12:18:20.012037Z'
 publication_types:
-- '2'
+- '0'
 abstract: "Les écologistes luxembourgeois, avec les deux principaux partis et les\
   \ syndicats du pays, manifestent à Dudelange contre une future mise en service de\
   \ la centrale nucláire de Cattenom en Moselle,  ̀8 km de la fronti`è. Th' ́Faber,\

@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: '2022-08-17T12:18:20.318611Z'
 publication_types:
-- '2'
+- '0'
 abstract: A l'occasion du triste anniversaire des 25 ans de Tchernobyl, entre 3 000
   et 5 000 manifestants venus de France, Belgique, Allemagne et Luxembourg se sont
   rassemblés à Cattenom pour demander la fin du nucláire en France. 'íane Romani (Europe

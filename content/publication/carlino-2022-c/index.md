@@ -28,7 +28,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-08-17T12:20:19.761946Z'
-publication_types: ["2"]
+publication_types: ["0"]
 abstract: "Des opposants au projet de carrière d'Audun-le-Tiche manifestent : ils\
   \ agissent pour les habitants, les communes voisines et des raisons écologiques,\
   \ explique Sarah Boumedine du collectif Forum citoyen audunois. Jean-Louis Martin,\
