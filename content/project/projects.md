@@ -1,13 +1,7 @@
 ---
 title: Recherche
-summary : 
+summary :
 cms_exclude: true
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-# view: 2
 
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -18,9 +12,6 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 65
-
-title: Projects
-subtitle: ''
 
 content:
   # Page type to display. E.g. project.
@@ -51,7 +42,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
