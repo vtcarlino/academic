@@ -1,6 +1,4 @@
 ---
-title: Recherche
-summary :
 cms_exclude: true
 
 # An instance of the Portfolio widget.
@@ -12,6 +10,9 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 65
+
+title: Recherche
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.

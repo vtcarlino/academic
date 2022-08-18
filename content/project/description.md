@@ -1,6 +1,6 @@
 ---
 widget: blank
-headless: true
+# headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Projet de recherche
