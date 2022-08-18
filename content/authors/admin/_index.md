@@ -30,6 +30,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Maître de conférences à l'[Université catholique de l’Ouest](https://www.uco.fr/), mes travaux portent sur les les controverses environnementales et les enjeux environnementaux des plateformes numériques.
+Maître de conférences à l'[Université catholique de l’Ouest](https://www.uco.fr/), mes travaux portent sur les controverses environnementales et les mobilisations pour l'écologie sur les plateformes numériques et dans les médias.
 
 Chercheur titulaire au [Centre Humanités et Sociétés](https://recherche.uco.fr/equipe/chus) et membre associé du [Centre de recherche sur les médiations](https://recherche.uco.fr/equipe/chus)
