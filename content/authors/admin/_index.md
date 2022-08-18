@@ -24,10 +24,12 @@ education:
     - course: Doctorat en Sciences de l'information et de la communication
       institution: Université de Lorraine, UCLouvain
       year: 2018
+    - course: Qualification 71e section CNU
+      year: 2018
 email: ""
 superuser: true
 highlight_name: true
 ---
-Maître de conférences à l'[Université catholique de l’Ouest](https://www.uco.fr/), mes travaux portent sur les pratiques de communication dans les controverses environnementales, les plateformes numériques et les “fake news”.
+Maître de conférences à l'[Université catholique de l’Ouest](https://www.uco.fr/), mes travaux portent sur les les controverses environnementales et les enjeux environnementaux des plateformes numériques.
 
 Chercheur titulaire au [Centre Humanités et Sociétés](https://recherche.uco.fr/equipe/chus) et membre associé du [Centre de recherche sur les médiations](https://recherche.uco.fr/equipe/chus)
