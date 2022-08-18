@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Recherche
-subtitle: 'Projets terminés et en cours'
+title: Projets
+subtitle: 'Terminés et en cours'
 
 content:
   # Page type to display. E.g. project.
