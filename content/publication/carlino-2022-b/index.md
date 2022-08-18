@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Entre expertise et expérience sensible. Les régimes de rationalité dans les
-  eontroverses environnementales
+  controverses environnementales
 subtitle: ''
 summary: ''
 authors:
