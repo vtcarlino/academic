@@ -1,5 +1,6 @@
 ---
-title: Posts
+title: Blog
+subtitle: 
 cms_exclude: true
 
 # View.
@@ -7,9 +8,6 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 view: 2
-
-title: Recent Posts
-subtitle:
 
 content:
   # Filter on criteria
