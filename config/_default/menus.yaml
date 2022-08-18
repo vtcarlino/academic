@@ -14,7 +14,7 @@ main:
     url: 'cours/'
     weight: 30
   - name: Recherche
-    url: '#projects'
+    url: 'research/'
     weight: 40
   - name: Conférences
     url: 'conf/'
