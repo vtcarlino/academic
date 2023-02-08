@@ -31,5 +31,5 @@ projects: []
 publication_types:
 - '1'
 abstract: ''
-publication: "*La preuve par l'image : contre-analyse, contre-histoire, complotisme *"
+publication: "La preuve par l'image : contre-analyse, contre-histoire, complotisme"
 ---
