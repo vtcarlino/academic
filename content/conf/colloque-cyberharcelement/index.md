@@ -67,4 +67,8 @@ slides: ""
 projects: []
 ---
 
-Membre du comité scientifique
+Membre du comité scientifique et rapporteur des travaux de l'Axe 3 « Contextes multiples des (cyber)violences »
+
+[Programme](http://crem.univ-lorraine.fr/recherche/evenements/colloque-international-sur-le-cyberharcelement)
+
+Le colloque international sur le (cyber)harcèlement (Cicy) envisage le phénomène de manière large, incluant les dynamiques de harcèlement (scolaire, moral, sexuel), de cyberharcèlement, de violence et de haine en ligne, dans des contextes sociaux variés et au sein de différents groupes sociaux. Les communications proposées ont tout d'abord trait aux enjeux définitionnels du (cyber)harcèlement et aux actions de lutte ou de prévention développées pour y faire face. Une attention est également portée aux rôles que jouent les affects, les émotions, les algorithmes ou encore les rapports sociaux de domination (dans une perspective intersectionnelle) dans les violences en ligne. Le colloque se caractérise par son approche pluridisciplinaire au sens où les communications s’inscrivent dans le champ des sciences de l’information et de la communication, de la sociologie, des sciences de l’éducation ou de l’anthropologie… Le colloque permet au final de faire le point sur un phénomène auquel viennent d’être consacrées deux décennies de recherches académiques.
