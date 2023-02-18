@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: L'activisme écologique en débat dans les pré-live sur Twitch
+title: "L'activisme écologique en débat dans les pré-live sur Twitch"
 event: XXIIIè congrès de la Sfsic : La numérisation des sociétés
 event_url: https://sfsic2023.sciencesconf.org/
 location: Bordeaux, France
