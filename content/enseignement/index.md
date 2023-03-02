@@ -14,5 +14,3 @@ header:
   caption: ""
   image: ""
 ---
-
-Listes des cours dispensés
