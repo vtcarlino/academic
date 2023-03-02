@@ -12,7 +12,7 @@ address:
   postcode:
   country: France
 summary:
-abstract: "La communication analyse les réactions de streameur·euse·s aux annonces des choix des associations bénéficiaires de l’édition 2022 du Z Event. Elle se focalise sur les moments de pré-live investis comme espaces de discussion libre et directe avec les spectateur·ice·s où les streameur·euse·s livrent leur vision de la polémique suite au retrait de l’association GoodPlanet, mais aussi de leurs moyens d’action au profit d’un événement caritatif tourné vers l’écologie. À partir d’une revue de la littérature, la communication revient sur l’importance des séquences de pré-live pour l’analyse du *live streaming*. Celles-ci font apparaître trois dimensions constitutives de l’activisme écologique sur Twitch : la critique du rôle des plateformes et de l’influence des streameur·euse·s, la valorisation d’une recherche documentaire critique, sourcée et vérifiée sur les actions environnementales, et la remise en cause de la surenchère d’objectifs de dons."
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -66,3 +66,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+La communication analyse les réactions de streameur·euse·s aux annonces des choix des associations bénéficiaires de l’édition 2022 du Z Event. Elle se focalise sur les moments de pré-live investis comme espaces de discussion libre et directe avec les spectateur·ice·s où les streameur·euse·s livrent leur vision de la polémique suite au retrait de l’association GoodPlanet, mais aussi de leurs moyens d’action au profit d’un événement caritatif tourné vers l’écologie. À partir d’une revue de la littérature, la communication revient sur l’importance des séquences de pré-live pour l’analyse du *live streaming*. Celles-ci font apparaître trois dimensions constitutives de l’activisme écologique sur Twitch : la critique du rôle des plateformes et de l’influence des streameur·euse·s, la valorisation d’une recherche documentaire critique, sourcée et vérifiée sur les actions environnementales, et la remise en cause de la surenchère d’objectifs de dons.
