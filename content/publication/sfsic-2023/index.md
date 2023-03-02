@@ -2,7 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "L'activisme écologique en débat dans les pré-live sur Twitch"
-authors: []
+authors:
+  - Vincent Carlino
 date: 2023-03-02T12:16:12+01:00
 doi: ""
 
