@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Narrations et storytelling en communication d'intérêt général"
+title: "Initiation à l’information-communication"
 subtitle: ""
-summary: "Théories du récit et storytelling"
+summary: "Présentation des principaux domaines des SIC"
 authors: []
 tags:
   - CM
-  - TD
-categories:
-date: 2023-03-02T19:32:33+01:00
-lastmod: 2023-03-02T19:32:33+01:00
+  - L1
+categories: []
+date: 2023-03-02T20:42:53+01:00
+lastmod: 2023-03-02T20:42:53+01:00
 featured: false
 draft: false
 
