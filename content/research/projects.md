@@ -26,10 +26,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: Tous
-      tag:
-      - Fake news
-      - Environnement
-      - Territoire
+      tag: "*"
     - name: Fake news
       tag: Fake news
     - name: Environnement
