@@ -28,4 +28,6 @@ image:
 projects: []
 ---
 
-Supplément coordonné par Vincent Carlino (CHUS, Crem), Université catholique de l'Ouest et Nathalie Pignard-Cheynel (Académie du journalisme et des médias), Université de Neuchâtel
+Numéro de la revue *Les Enjeux de l'information et de la communication* coordonné par Vincent Carlino (CHUS, Crem), Université catholique de l'Ouest et Nathalie Pignard-Cheynel (Académie du journalisme et des médias), Université de Neuchâtel
+
+Ce supplément s’inscrit dans le cadre d’une interrogation critique de la notion de « fake news » à partir des pratiques et logiques informationnelles et communicationnelles qu’elle met au jour. L’emploi de l’expression « fake news » en tant que notion anime des débats dans les sciences humaines et sociales. De nombreux travaux interrogent l’expression pour la déconstruire, et analysent ses manifestations sur les espaces numériques. L’objectif de ce dossier est de saisir la manière dont les « fake news » (re)configurent les relations entre les professionnels de l’information et leurs publics.
