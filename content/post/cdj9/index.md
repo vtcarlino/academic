@@ -33,13 +33,4 @@ objet désirable
 - Axe 2 : Adaptation des rédactions et (nouveaux) formats éditoriaux
 - Axe 3 : Les initiatives en faveur d'un journalisme écoresponsable
 
-Calendrier :
-
-- 30 janvier : réception des propositions
-- 7 février : retour aux contributeurs sur les propositions acceptées
-- 30 mai : réception des articles
-- 27 juin : fin d’évaluation des articles et envoi aux auteurs pour corrections
-- 13 juillet 2022 : retour des articles définitifs par les auteurs
-- Publication prévue en automne 2022
-
 [Lire en PDF](https://cahiersdujournalisme.org/AAC_CahJ.Vol2-No9.pdf)
