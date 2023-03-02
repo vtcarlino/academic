@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Projets
-subtitle: 'Terminés et en cours'
+title: "Projets étudiants"
+subtitle: "Pédagogie innovante"
 
 content:
   # Page type to display. E.g. project.
@@ -26,15 +26,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: Tous
-      tag: Fake news
-      tag: Environnement
-      tag: Territoire
-    - name: Fake news
-      tag: Fake news
-    - name: Environnement
-      tag: Environnement
-    - name: Territoire
-      tag: Territoire
+      tag: Pédagogie
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

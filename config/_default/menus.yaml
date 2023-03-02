@@ -19,9 +19,9 @@ main:
   - name: Conférences
     url: 'conf/'
     weight: 50
-  - name: Blog
-    url: 'blog/'
-    weight: 60
+# - name: Blog
+#   url: 'blog/'
+#   weight: 60
 # - name: Contact
 #   url: '#contact'
 #   weight: 60

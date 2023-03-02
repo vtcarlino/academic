@@ -7,7 +7,7 @@ title: "Enseignements dispensés"
 subtitle: ''
 
 # Position of this section on the page
-weight: 30
+weight: 10
 
 content:
   # Filter content to display

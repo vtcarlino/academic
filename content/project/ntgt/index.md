@@ -1,15 +1,16 @@
 ---
-summary: Test
+summary: Numérique, transformations et gouvernance des territoires
 draft: false
 authors: []
 lastmod: 2020-05-02T17:22:02+02:00
-title: Cap Controverses
+title: NTGT
 subtitle: ""
 date: 2020-05-02T17:22:02+02:00
 featured: false
 tags:
-  - Mobile
-external_link: http://crem.univ-lorraine.fr/recherche/contrats-recherche/capacite-dagir-des-publics-dans-les-controverses
+  - Territoire
+  - Tourisme
+external_link: https://recherche.uco.fr/programmes/ntgt-numerique-transformations-et-gouvernance-territoires-touristiques
 projects: []
 categories: []
 image:
