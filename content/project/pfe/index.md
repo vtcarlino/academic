@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Projet de fin d'études Licence 3"
-summary: "Enquête journalistique et controverse"
+title: "Enquête journalistique et controverse"
+summary: "Projet de fin d'études Licence 3"
 authors: []
 tags:
   - Pédagogie
