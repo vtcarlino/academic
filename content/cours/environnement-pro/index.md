@@ -1,16 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Initiation à l’information-communication"
+title: "Environnement professionnel"
 subtitle: ""
-summary: "Présentation des principaux domaines des SIC"
+summary: "Présentation des domaines d’activité en information-communication, écriture d’articles et de communiqués de presse, analyse critique des professions"
 authors: []
 tags:
 categories:
   - CM
-  - L1
-date: 2023-03-02T20:42:53+01:00
-lastmod: 2023-03-02T20:42:53+01:00
+  - TD
+  - L2
+date: 2023-03-02T21:08:11+01:00
+lastmod: 2023-03-02T21:08:11+01:00
 featured: false
 draft: false
 
@@ -30,6 +31,6 @@ image:
 projects: []
 ---
 
-Présentation des principaux domaines et courants théoriques de la discipline.
+Visite organisée des locaux de la rédaction d'*Antenne Réunion* dans le cadre de ce cours.
 
-Cours dispensé en L1 et L2 à l'Université de La Réunion.
+![Régie d'Antenne Réunion](antenne.jpg)

@@ -6,9 +6,10 @@ subtitle: ""
 summary: "Théories du récit et storytelling"
 authors: []
 tags:
+categories:
   - CM
   - TD
-categories:
+  - Master
 date: 2023-03-02T19:32:33+01:00
 lastmod: 2023-03-02T19:32:33+01:00
 featured: false

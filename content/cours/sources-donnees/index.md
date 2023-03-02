@@ -1,16 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Initiation à l’information-communication"
+title: "Sources et données"
 subtitle: ""
-summary: "Présentation des principaux domaines des SIC"
+summary: ""
 authors: []
-tags:
+tags: []
 categories:
   - CM
-  - L1
-date: 2023-03-02T20:42:53+01:00
-lastmod: 2023-03-02T20:42:53+01:00
+date: 2023-03-02T20:54:01+01:00
+lastmod: 2023-03-02T20:54:01+01:00
 featured: false
 draft: false
 
@@ -30,6 +29,6 @@ image:
 projects: []
 ---
 
-Présentation des principaux domaines et courants théoriques de la discipline.
+Techniques de recherche d’informations sur les moteurs de recherche et dans les bases documentaires, veille documentaire, recherche, vérification et citation des sources. Sensibilisation au plagiat.
 
-Cours dispensé en L1 et L2 à l'Université de La Réunion.
+Cours interdisciplinaire dispensé à des étudiant.e.s de L1 de filières en Lettres et Sciences humaines 
