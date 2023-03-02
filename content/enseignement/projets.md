@@ -32,13 +32,13 @@ sections:
       # To show all content, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the button toolbar, delete the entire `buttons` block.
-#      buttons:
-#        - name: All
-#          tag: '*'
-#        - name: Deep Learning
-#          tag: Deep Learning
-#        - name: Other
-#          tag: Demo
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Deep Learning
+          tag: Deep Learning
+        - name: Other
+          tag: Demo
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
