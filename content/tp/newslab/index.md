@@ -7,7 +7,6 @@ summary: ""
 authors: []
 tags: []
 categories:
-  - projet
 date: 2023-03-09T13:38:05+01:00
 lastmod: 2023-03-09T13:38:05+01:00
 featured: false
