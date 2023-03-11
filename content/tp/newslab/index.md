@@ -5,7 +5,10 @@ title: "Newslab"
 subtitle: ""
 summary: ""
 authors: []
-tags: []
+tags:
+  - journalisme
+  - designthinking
+  - innovation
 categories:
 date: 2023-03-09T13:38:05+01:00
 lastmod: 2023-03-09T13:38:05+01:00
@@ -32,16 +35,18 @@ Accompagnement d'étudiant.e.s journalistes dans la réalisation de contenus nat
 
 Réalisations disponibles sur Instagram : [@newslab_ajm](https://www.instagram.com/newslab_ajm/)
 
-2020
+Édition 2020
+
 Thématique : Lutte contre les fake news
 En partenariat avec *Le Temps*, adossé au projet de recherche [Fake news, audiences and journalism](https://vincentcarlino.netlify.app/research/)
 Réalisations :
 - « Challenge Anti-Fake » : stories sous la forme d'un programme de coaching animé par un journaliste pour comprendre les fake-news et mieux s'en prémunir.
 - « Plus cool que ce que tu crois » : vidéos de présentation de journalistes du *Temps* présentant les coulisses de leur métier afin de développer la confiance et le lien avec leur public.
 
-2021
+Édition 2021
+
 Thématique : Son et information
 En partenariat avec *Couleur 3* (RTS)
 Réalisations :
-- Algo'rythme : vidéos documentaires présentant des innovations qui explorent le son de la science, de l'art et du langage. Exemples : [Le Chant des étoiles](https://www.instagram.com/p/CIlEHkwD1kjUquNPmoGPcz-oAaNYZcsG5Is7nI0/), [Écouter un virus](https://www.instagram.com/p/CIksgE9Dn8W171_gihiwRkolmGx0ryW5N8-_4I0/), [Au rythme des tableaux](https://www.instagram.com/p/CIlHJEZjII34OgEOC_WK6VRSeLtVYg6ooMJhg80/), [Des Mots à la mélodie](https://www.instagram.com/p/CIlN1vRjDA1343iiVheoCqfO3U2vfrxmJernt40/)
-- Ce son qui a changé ma vie : portraits d'individus réalisés à partir d'un son ou d'un morceau ayant particulièrement marqué leur carrière.
+- « Algo'rythme » : vidéos documentaires présentant des innovations qui explorent le son de la science, de l'art et du langage. Exemples : [Le Chant des étoiles](https://www.instagram.com/p/CIlEHkwD1kjUquNPmoGPcz-oAaNYZcsG5Is7nI0/), [Écouter un virus](https://www.instagram.com/p/CIksgE9Dn8W171_gihiwRkolmGx0ryW5N8-_4I0/), [Au rythme des tableaux](https://www.instagram.com/p/CIlHJEZjII34OgEOC_WK6VRSeLtVYg6ooMJhg80/), [Des Mots à la mélodie](https://www.instagram.com/p/CIlN1vRjDA1343iiVheoCqfO3U2vfrxmJernt40/)
+- « Ce son qui a changé ma vie » : portraits d'individus réalisés à partir d'un son ou d'un morceau ayant particulièrement marqué leur carrière.
