@@ -14,10 +14,9 @@ content:
   filters:
     # The folders to display content from
     folders:
-      - cours
+      - tp
     tag: ''
     category:
-      - projet
     publication_type: ''
     author: ''
     exclude_featured: false
