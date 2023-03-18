@@ -29,6 +29,9 @@ experience:
     company_url: 'https://nantes.uco.fr/'
     date_start: '2021-08-23'
     date_end: ''
+    description: |2-
+
+        * Responsable pédagogique de la L1 Information-communication
 
   - title: Chercheur post-doctorant
     company: Université de Neuchâtel
@@ -37,7 +40,7 @@ experience:
     date_start: '2019-09-01'
     date_end: '2021-08-01'
     description: |2-
-    
+
         * Participation à des projets de recherche appliquée en journalisme numérique
         * Appui pédagogique au Master Création de contenus et communication d'intérêt général
         * Actions d'éducation aux médias
@@ -49,11 +52,11 @@ experience:
     date_start: '2017-09-01'
     date_end: '2019-09-01'
     description: |2-
-    
+
         * Service d'enseignement de 192 / année, de la L1 au M1
         * Participation aux séminaires du LCF
         * Encadrement des mémoires d'étudiants de Master
-        
+
   - title: Doctorant contractuel chargé d'enseignement
     company: Université de Lorraine
     company_url: 'https://crem.univ-lorraine.fr/'
