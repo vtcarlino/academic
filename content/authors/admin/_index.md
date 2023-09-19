@@ -4,11 +4,11 @@ role: Enseignant-chercheur en sciences de l'information et de la communication
 bio: ""
 interests: []
 social:
-  - icon: twitter
+  - icon: mastodon
     icon_pack: fab
-    link: https://twitter.com/vincent_ca
+    link: https://mamot.fr/@vincent_ca
   - icon: graduation-cap
-    icon_pack: fas
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=LvArOUgAAAAJ&hl=fr
   - icon: github
     icon_pack: fab
