@@ -7,7 +7,7 @@ social:
   - icon: mastodon
     icon_pack: fab
     link: https://mamot.fr/@vincent_ca
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fab
     link: https://scholar.google.com/citations?user=LvArOUgAAAAJ&hl=fr
   - icon: github
